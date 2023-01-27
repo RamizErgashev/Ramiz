@@ -1,2 +1,2 @@
 # ей привет рад тебя видеть меня зовут  Ramiz Ergashev <img src="https://media3.giphy.com/media/jIMfuPWTrYgEw/giphy.gif?cid=ecf05e47sypcmarie14lve9a88qy9jwk4tolt1wml639ltpf&rid=giphy.gif&ct=g" width="190px"> <br>
-Мой инстаграм <a href="https://www.instagram.com/p/CbpqGM1MK9e/?igshid=YmMyMTA2M2Y="> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKoNBpc26lA9XjBvrcuqbDvCGD6EFMX-reBw&usqp=CAU" > </a>
+Мой инстаграм <a href="https://www.instagram.com/p/CbpqGM1MK9e/?igshid=YmMyMTA2M2Y="> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKoNBpc26lA9XjBvrcuqbDvCGD6EFMX-reBw&usqp=CAU" width="30px" > </a>
